@@ -1,6 +1,12 @@
 CI/CD - Continous Integration and Continous Deployement
 A CI/CD pipeline automates your software delivery process. The pipeline builds code, runs tests (CI), and safely deploys a new version of the application (CD).
 Automated pipelines remove manual errors, provide standardized feedback loops to developers, and enable fast product iterations.
-In CICD we will be creating aprocess wher ebuild and relaease of a software is fully Automated
+In CICD we will be creating process where build and relaease of a software is fully Automated
+
+With the help of jenkins we wil be ceating a pipeline to automate our current Worklow 
+It will be easy for everyone to save our time and it will reduce manula work
+Developer will write a source code -commit those codein SC(Git) From git it will go to build where we will compile the code 
+Then it will run the test case and it it is succesful then it will go for PRODUCTION
+
 
 Thankyou
